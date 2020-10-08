@@ -1,3 +1,6 @@
 primer text
 
 vtora linija
+
+
+Nov kod na shesta linija
